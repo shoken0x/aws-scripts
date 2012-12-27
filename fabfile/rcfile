@@ -1,0 +1,7 @@
+user = ec2-user
+key_filename = ~/your_name_here.pem
+
+mysql_root_password = thisisnotastrongpassword
+wp_database = wordpressdatabase
+wp_dbuser = wordpressuser
+wp_dbpassword = wordpresspassword
