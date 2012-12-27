@@ -5,7 +5,6 @@ AWS Auto generator scripts
 
 Initial Settings
 ```
-€”õ
 https://gist.github.com/4242303
 https://gist.github.com/4242484
 https://gist.github.com/4230004
